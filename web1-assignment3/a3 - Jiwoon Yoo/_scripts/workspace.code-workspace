@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"name": "a2-Jiwoon Yoo",
+			"path": "..\\..\\a2-Jiwoon Yoo"
+		},
+		{
+			"name": "a3 - Jiwoon Yoo",
+			"path": ".."
+		},
+		{
+			"name": "Jiwoon Yoo - a1",
+			"path": "..\\..\\Jiwoon Yoo - a1"
+		},
+		{
+			"name": "practice",
+			"path": "..\\..\\practice"
+		},
+		{
+			"name": "week1",
+			"path": "..\\..\\week1"
+		},
+		{
+			"name": "week1-답안코드",
+			"path": "..\\..\\week1-답안코드"
+		},
+		{
+			"name": "week2",
+			"path": "..\\..\\week2"
+		},
+		{
+			"name": "week2-답안코드",
+			"path": "..\\..\\week2-답안코드"
+		},
+		{
+			"name": "week3",
+			"path": "..\\..\\week3"
+		},
+		{
+			"name": "week3 - activity 답안코드",
+			"path": "..\\..\\week3 - activity 답안코드"
+		},
+		{
+			"name": "week3 - 답안코드",
+			"path": "..\\..\\week3 - 답안코드"
+		},
+		{
+			"name": "week4",
+			"path": "..\\..\\week4"
+		},
+		{
+			"name": "week4 - doityourself 답안코드",
+			"path": "..\\..\\week4 - doityourself 답안코드"
+		},
+		{
+			"name": "week4 - 답안코드",
+			"path": "..\\..\\week4 - 답안코드"
+		},
+		{
+			"name": "week5",
+			"path": "..\\..\\week5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice"
+	}
+}

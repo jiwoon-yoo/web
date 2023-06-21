@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home2/yoojiw/index_html/syst10199/",
+    "host": "dev.fast.sheridanc.on.ca",
+    "username": "yoojiw",
+    "password": "!AG79v3sjcr",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}

@@ -1,0 +1,55 @@
+body{
+    background-color:beige;
+
+    
+}
+#div1{
+    border:2px solid brown;
+    padding: 30px 60px 30px 60px; 
+    
+}
+#header1{
+    color:brown; 
+    text-align:center;
+}
+#header2{
+    color:brown; 
+}
+#img1{
+    width:100%;
+    height:200px;
+}
+
+
+
+
+.div2{
+    border:2px solid brown;
+    background-color:white;
+}
+#header3{
+    color:brown;
+}
+#img2{
+    width:100px;
+}
+#img3{
+    width:150px;
+}
+#img4{
+    width:200px;
+}
+#img5{
+    width:250px;
+}
+
+#table1{
+    background-color: brown; 
+    color:white;
+    border : 1;
+    text-align: center;
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+
+}
